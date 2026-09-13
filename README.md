@@ -19,7 +19,7 @@
 
 ### 💻 Languages
 
-`Python` `JavaScript` `TypeScript` `SQL` `Java` `C/C++`
+`Python` `JavaScript` `TypeScript` `SQL` `Java` `C/C++`  `Rust`  `M Code`
 
 ### ⚙️ Backend & Full Stack
 
@@ -43,7 +43,7 @@
 
 ### 🔹 Software Engineer — AI & Full Stack | Xornor Technologies
 
-**May 2026 – Present**
+**April 2026 – Present**
 
 * Built an AI-powered **Jira analytics platform** with Jira REST APIs, LangChain, OpenAI, and React.
 * Developed AI workflows for **worklog classification and anomaly detection** across 50+ projects.
@@ -53,7 +53,7 @@
 
 ### 🔹 Software Engineer Intern — Data Pipelines | Innova Solutions
 
-**May 2025 – April 2026**
+**May 2025 – March 2026**
 
 * Built automated pipelines processing **1,800+ monthly CSV files** across 60+ report schemas.
 * Developed Oracle → Power Automate → SharePoint → Power BI workflows for healthcare analytics.
